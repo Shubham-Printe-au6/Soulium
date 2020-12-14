@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  /* background-color: #46b83c; */
+}
+
+#section1 button:nth-child(2) {
+  background-color: green;
+}
+
+#section1 {
+  background-color: #fcf8ec;
+  background-image: url("https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#section2 {
+  background-color: #a6c7d8;
+}
+
+#section3 {
+  background-color: #ecd0d0;
+}
+
+#section4 {
+  background-color: #ee8aee;
+  background-image: url("https://images.pexels.com/photos/259280/pexels-photo-259280.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: 100%;
+  position: relative;
+}
+
+#section5 {
+  background-color: #ffffff;
+}
+
+#section6 {
+  background-color: #e2c9c4;
+}
+
+#section7 {
+  background-color: #cf7d7d;
+}
+
+#section8 {
+  background-color: #cfe4db;
+}
+
+#section9 {
+  background-color: #187c39;
+  background-image: url("https://images.pexels.com/photos/1423600/pexels-photo-1423600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-position: left -180px;
+  background-size: 100%;
+  position: relative;
+}
+
+#section10 {
+  background-color: #e3e4cf;
+}
+
+#searchBar {
+  position: absolute;
+  left: 35%;
+  top: 490px;
+  background-color: white;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
